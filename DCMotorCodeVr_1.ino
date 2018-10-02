@@ -20,6 +20,7 @@ void setup()
   pinMode(in4, OUTPUT);
   Serial.begin(9600);
 }
+//move forward
 void forward()
 { //moves motor in forward direction
   digitalWrite(in1, HIGH);
