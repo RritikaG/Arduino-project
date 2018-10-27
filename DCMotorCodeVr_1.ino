@@ -1,6 +1,7 @@
 //DC motor control through bluetooth
 // motor one
 //edited tested
+//edited
 int enA = 10;
 int in1 = 9;
 int in2 = 8;
